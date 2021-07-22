@@ -1,0 +1,22 @@
+*
+.header
+{
+  padding:20px;
+}
+.header img
+{
+  width: 150px;
+  height: 150px;
+  margin-right: 15px;
+  border-radius: 50%;
+}
+.qualification.degree_list
+{
+line-height: 2.0px;
+font-size: 15px;
+}
+.Hobbies
+{
+  line-height:2.0px;
+
+}
